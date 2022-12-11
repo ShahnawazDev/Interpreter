@@ -1,0 +1,7 @@
+{
+  "name": "Interpreter",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
